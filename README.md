@@ -1,6 +1,6 @@
-# test-project
-
-> A Vue.js project
+# Vue Contact List example
+A simple example of a contacts list with a create and list components.
+[Live Demo](https://codesandbox.io/s/github/Johnhhorton/vue-contact-list/tree/master/)
 
 ## Build Setup
 
